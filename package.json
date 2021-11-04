@@ -1,0 +1,19 @@
+{
+  "name": "js-pet-rescue",
+  "version": "0.0.1",
+  "description": null,
+  "main": "index.html",
+  "dependencies": {
+    "json": "11.0.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
